@@ -2,4 +2,4 @@ Resolusi Beloved
 - Membuat resolusi
 - Mengingat resolusi
 - Simpan resolusi
-- Membuat resolusi baru
+- Mengedit sesuai kemampuan
