@@ -1,6 +1,7 @@
 RENCANA:
 Membuat ini
-Membuat itu (jangan mati)
-Memperdalam ini
-Menyesuaikan seluruh ini dan itu
 Membuat struktur terprediksi
+Membuat itu
+Memperdalam ini (lebih dalam)
+Menyesuaikan seluruh ini dan itu
+Membuat 2 ini dan 2 itu
