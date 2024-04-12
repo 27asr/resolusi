@@ -3,3 +3,4 @@ Resolusi Beloved
 - Mengingat resolusi
 - Simpan resolusi
 - Mengedit sesuai kemampuan
+- Menambahkan resolusi-revo 
